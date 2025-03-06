@@ -125,4 +125,4 @@ The project includes a GitHub Actions workflow that:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the proprietary license
